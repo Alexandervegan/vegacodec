@@ -3,112 +3,139 @@
 </p>
 
 <p align="center">
-  <strong>Ingeniería de Software de Alto Impacto • Soluciones Digitales a la Medida • Innovación Tecnológica</strong>
+  <strong>Arquitectura Digital & Seguridad B2B • Ingeniería de Software de Alto Rendimiento</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.vegacodec.com"><img src="https://img.shields.io/badge/Website-vegacodec.com-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://startup-vegacodec.onrender.com/"><img src="https://img.shields.io/badge/Website-startup--vegacodec.onrender.com-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="mailto:contacto@vegacodec.com"><img src="https://img.shields.io/badge/Email-contacto%40vegacodec.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/company/vegacodec"><img src="https://img.shields.io/badge/LinkedIn-VegaCodec-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
-## 🏢 Sobre Nosotros
+## 🏢 Sobre VegaCodec
 
-En **VegaCodec**, concebimos la tecnología no solo como una herramienta, sino como el motor estratégico que impulsa el crecimiento de las empresas en la era digital. Somos un estudio boutique de ingeniería de software enfocado en el diseño, desarrollo e implementación de ecosistemas digitales robustos, escalables y altamente eficientes.
+En **VegaCodec**, construimos ecosistemas de software de alto rendimiento, seguros y escalables. Desarrollamos ingeniería de precisión diseñada específicamente para la evolución, automatización y transformación digital integral de empresas y entornos corporativos B2B.
 
-Nuestra filosofía de trabajo se fundamenta en tres pilares inquebrantables:
-*   **Excelencia Técnica:** Arquitecturas limpias (Clean Architecture), código mantenible y optimización de recursos.
-*   **Enfoque Centrado en el Usuario (UX/UI):** Soluciones intuitivas que maximizan la retención y la experiencia del usuario final.
-*   **Metodologías Ágiles:** Entregas de valor iterativas y transparentes (Scrum/Kanban) que garantizan que el producto evolucione al ritmo de tu negocio.
+Nuestra filosofía se centra en traducir requerimientos empresariales complejos en arquitecturas tecnológicas resilientes que garantizan fiabilidad, seguridad y alto rendimiento en cada entrega.
 
 ---
 
-## 🚀 Áreas de Especialización
+## 🚀 Nuestras Soluciones Corporativas
 
 <table border="0">
   <tr>
-    <td width="33.3%" valign="top">
-      <h3>🌐 Desarrollo Web Enterprise</h3>
-      <p>Diseño y construcción de plataformas web de alta disponibilidad, portales corporativos complejos, arquitecturas microfrontend y soluciones de comercio electrónico escalables.</p>
+    <td width="50%" valign="top">
+      <h3>💻 Desarrollo Full Stack</h3>
+      <p>Diseño e implementación de plataformas web y sistemas empresariales a medida, orientados a la máxima eficiencia.</p>
+      <ul>
+        <li><strong>Arquitectura Escalable:</strong> Microservicios, APIs REST/GraphQL.</li>
+        <li><strong>Frontend Reactivo:</strong> Experiencias fluidas con React/Next.js.</li>
+      </ul>
     </td>
-    <td width="33.3%" valign="top">
-      <h3>📱 Aplicaciones Móviles</h3>
-      <p>Experiencias móviles nativas e híbridas de alto rendimiento para iOS y Android, enfocadas en la fluidez de las animaciones y un consumo óptimo de datos y batería.</p>
-    </td>
-    <td width="33.3%" valign="top">
-      <h3>⚙️ Software a la Medida</h3>
-      <p>Automatización de procesos de negocio, sistemas ERP/CRM personalizados, integraciones API de terceros y desarrollo de sistemas core empresariales.</p>
+    <td width="50%" valign="top">
+      <h3>🔒 Ciberseguridad & Zero-Trust</h3>
+      <p>Protección proactiva de infraestructuras críticas y auditoría exhaustiva de sistemas corporativos.</p>
+      <ul>
+        <li><strong>Criptografía Aplicada:</strong> Encriptación E2E de datos sensibles.</li>
+        <li><strong>Análisis de Vulnerabilidades:</strong> Prevención de brechas y compliance.</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="33.3%" valign="top">
-      <h3>☁️ Arquitectura Cloud & DevOps</h3>
-      <p>Migración a la nube, diseño de infraestructuras serverless, contenedores (Docker/Kubernetes) y configuración de pipelines de Integración y Despliegue Continuo (CI/CD).</p>
+    <td width="50%" valign="top">
+      <h3>🤖 Automatización de Procesos (RPA)</h3>
+      <p>Optimización de flujos operativos mediante robots, scripts inteligentes e integración de Inteligencia Artificial.</p>
+      <ul>
+        <li><strong>Reducción de Costos:</strong> Eliminación de tareas manuales repetitivas.</li>
+        <li><strong>Integración Multi-Sistema:</strong> Sincronización entre CRMs, ERPs y BD.</li>
+      </ul>
     </td>
-    <td width="33.3%" valign="top">
-      <h3>💡 Consultoría y R&D</h3>
-      <p>Auditorías de código, análisis de seguridad, consultoría de transformación digital y diseño previo de MVPs (Productos Mínimos Viables) para validación de mercado.</p>
+    <td width="50%" valign="top">
+      <h3>⚙️ Consultoría Técnica Especializada</h3>
+      <p>Asesoramiento estratégico para directores de TI (CTOs) y empresas en fase de crecimiento tecnológico.</p>
+      <ul>
+        <li><strong>Diseño Cloud:</strong> Despliegues de alta disponibilidad (AWS, Azure, Akash).</li>
+        <li><strong>Optimización:</strong> Refactorización y afinamiento de código crítico.</li>
+      </ul>
     </td>
-    <td width="33.3%" valign="top">
-      <h3>🔒 Ciberseguridad y Datos</h3>
-      <p>Implementación de buenas prácticas de seguridad (OWASP), protección de datos sensibles y modelado eficiente de bases de datos relacionales y no relacionales.</p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Inteligencia Artificial</h3>
+      <p>Integración de modelos de Machine Learning y LLMs en sistemas corporativos para potenciar la toma de decisiones.</p>
+      <ul>
+        <li><strong>Agentes IA B2B:</strong> Atención y análisis automatizado de datos.</li>
+        <li><strong>Analítica Predictiva:</strong> Modelado para anticipar tendencias.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 DevOps & CI/CD Pipelines</h3>
+      <p>Aceleramos el ciclo de desarrollo y garantizamos despliegues seguros mediante prácticas avanzadas.</p>
+      <ul>
+        <li><strong>Integración Continua:</strong> Pruebas y validaciones automáticas.</li>
+        <li><strong>Infraestructura como Código:</strong> Gestión con Terraform/Ansible.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Stack Tecnológico Corporativo
+## 🛠️ Stack Tecnológico & Infraestructura
 
-Gestionamos un abanico tecnológico moderno y maduro, lo que nos permite seleccionar el framework exacto para cada desafío de ingeniería:
+Seleccionamos tecnologías modernas e infraestructuras de alta disponibilidad para respaldar soluciones de gama alta:
 
-### 🌟 Frontend & Mobile
 <p align="left">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-</p>
-
-### ⚙️ Backend & API Architecture
-<p align="left">
+  <!-- Backend / Languages -->
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-</p>
-
-### ☁️ Infrastructure, Databases & DevOps
-<p align="left">
+  <!-- Databases & Cloud -->
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ---
 
-## 📈 Métricas de Desarrollo
+## 📊 Experiencia Comprobada (Casos de Éxito)
+
+### 🛒 Sistemas de Gestión Retail — *Escalabilidad Operativa*
+*   **Control de Inventario:** Desarrollo de módulos de sincronización en tiempo real para múltiples puntos de venta físicos y canales digitales.
+*   **Métricas y BI:** Dashboards gerenciales integrados para la toma de decisiones estratégicas basadas en datos.
+
+### 🗄️ Arquitectura de Bases de Datos SQL — *High Performance Data*
+*   **Modelado Estructural:** Refactorización profunda de esquemas de bases de datos para soportar millones de transacciones diarias sin cuellos de botella.
+*   **Optimización de Consultas:** Reducción de tiempos de respuesta en un **400%** mediante estrategias de indexación avanzadas.
+
+### ☁️ Infraestructura de Alta Disponibilidad — *Zero-Downtime Architecture*
+*   **Migración a la Nube:** Orquestación y despliegue de aplicaciones legadas en entornos modernos contenerizados (Docker/Kubernetes).
+*   **Resiliencia Continua:** Implementación de balanceadores de carga globales y políticas de recuperación ante desastres (DRP).
+
+---
+
+## 📈 Métricas del Repositorio Corporativo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vegacodec&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" alt="VegaCodec GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegacodec&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="VegaCodec Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vegacodec&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" alt="VegaCodec Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegacodec&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="VegaCodec Languages" />
 </p>
 
 ---
 
-## 🛠️ Cómo Trabajamos (Pipeline Operativo)
+## 🤝 Inicie su Transformación Digital
 
-Nuestros repositorios siguen estrictos estándares de la industria para asegurar entregas estables:
+Asóciese con **VegaCodec** para modernizar y escalar sus operaciones tecnológicas. Proporcione sus datos institucionales en nuestra plataforma y uno de nuestros arquitectos de software se pondrá en contacto para evaluar sus requerimientos B2B.
 
-```mermaid
-graph LR
-    A[Requerimientos] --> B[Diseño de Arquitectura]
-    B --> C[Desarrollo Ágil / TDD]
-    C --> D[CI/CD & Code Review]
-    D --> E[QA Automatizado]
-    E --> F[Despliegue Continuo]
+*   🌐 **Sitio Web Oficial:** [startup-vegacodec.onrender.com](https://startup-vegacodec.onrender.com/)
+*   📧 **Contacto Corporativo:** [contacto@vegacodec.com](mailto:contacto@vegacodec.com)
+*   💼 **LinkedIn Institucional:** [VegaCodec en LinkedIn](https://linkedin.com/company/vegacodec)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=radical" width="100%" alt="VegaCodec Footer" />
+</p>
